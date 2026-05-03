@@ -1,0 +1,180 @@
+{
+  "Header": {
+    "title": "you give you get better",
+    "paragraph": "We believe the best work comes from used possession. advanced peope aren't better than others so why should advanced tecnology be better than normal tecnology. "
+  },
+  "About": {
+    "paragraph": "Founded on the principle of reciprocal growth, our agency bridges the gap between ambitious ideas and technical excellence. We don't just work for you; we work with you to build sustainable digital ecosystems that thrive in today's competitive landscape.",
+    "Why": [
+      "Collaborative Strategy",
+      "Tailored Digital Solutions",
+      "Transparent Workflows",
+      "Data-Driven Results"
+    ],
+    "Why2": [
+      "Dedicated Support Team",
+      "Scalable Architecture",
+      "User-Centric Design",
+      "Proven Industry Expertise"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Brand Identity - Urban Edge",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "E-commerce UI - Flow State",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Mobile App - NexaHealth",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Web Platform - SkyBound",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Marketing Suite - Core",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Visual Design - Aura",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Social Campaign - Pulse",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Dashboard - DataStream",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Creative Film - Motion",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Web Development",
+      "text": "Custom, high-performance websites built on robust frameworks to ensure speed, security, and effortless management."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "E-Commerce",
+      "text": "Seamless shopping experiences designed to convert visitors into loyal customers through intuitive UX and secure checkouts."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Cloud Solutions",
+      "text": "Scalable infrastructure that grows with your business, ensuring your data is always accessible and protected."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Global Strategy",
+      "text": "Localising your message for international markets while maintaining a consistent and powerful brand voice."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Digital Logistics",
+      "text": "Streamlining your backend operations with automated workflows that free up your time for big-picture thinking."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Market Analytics",
+      "text": "Deep-dive insights and reporting that turn complex data into actionable steps for your brand's future."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"The collaborative spirit here is unmatched. They took our vague concept and turned it into a market-leading platform.\"",
+      "name": "Sarah Jenkins"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Professional, creative, and genuinely invested in our success. Our conversion rate tripled within three months.\"",
+      "name": "Marcus Thorne"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"They don't just build websites; they build brands. The attention to detail in the UI is absolutely world-class.\"",
+      "name": "Elena Rodriguez"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"A refreshing approach to digital marketing. Transparent communication and they actually hit every deadline.\"",
+      "name": "David Chen"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Hands down the best agency experience we've had. They feel like an extension of our own internal team.\"",
+      "name": "Sophie Moore"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Innovation is in their DNA. They brought solutions to the table that we hadn't even considered possible.\"",
+      "name": "Liam Foster"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Jessica Vance",
+      "job": "Creative Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Sterling",
+      "job": "Lead Developer"
+    },
+    { "img": "img/team/03.jpg", "name": "Jane Aris", "job": "UX Architect" },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Wright",
+      "job": "Head of Operations"
+    }
+  ],
+  "Contact": {
+    "address": "123 Creative Plaza, San Francisco, CA 94103",
+    "phone": "+1 (555) 890-1234",
+    "email": "hello@elevateagency.com",
+    "facebook": "://facebook.com",
+    "twitter": "://twitter.com",
+    "youtube": "://youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Open Dialogue",
+      "text": "We maintain constant communication, ensuring your feedback is integrated into every stage of the project."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "brilliant contact",
+      "text": "We help you cut through the digital noise with striking visuals and a compelling, unique brand story."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Expert Team",
+      "text": "Our diverse group of specialists brings a wealth of experience across design, code, and marketing."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Smart Automation",
+      "text": "We implement modern tech that works like magic, simplifying your daily tasks and boosting efficiency."
+    }
+  ]
+}
